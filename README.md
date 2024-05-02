@@ -1,0 +1,1 @@
+ On this repository you will find the replication of the paper "Sell Low and Buy High: Arbitrage and Local Price Effects in Kenyan Markets" by Marshall Burke, Lauren Falcao Bergquist, and Edward Miguel. This project was part of my ECON 148 (Data Science for Economists) class at UC Berkeley
